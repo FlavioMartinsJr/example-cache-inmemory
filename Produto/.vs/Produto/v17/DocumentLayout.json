@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB5029-8868-4679-85B1-4DC4BB0CF97F}|Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.infrastructure.data\\contexts\\applicationdbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB5029-8868-4679-85B1-4DC4BB0CF97F}|Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj|solutionrelative:produto.infrastructure.data\\contexts\\applicationdbcontextinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB5029-8868-4679-85B1-4DC4BB0CF97F}|Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.infrastructure.data\\entitiesconfigs\\produtoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0FB5029-8868-4679-85B1-4DC4BB0CF97F}|Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj|solutionrelative:produto.infrastructure.data\\entitiesconfigs\\produtoconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\extensions\\hostingextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\controllers\\produtocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FE6FDA3-7414-471D-8309-A8A01907E7D8}|Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.infrastructure.ioc\\produto.infrastructure.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6FE6FDA3-7414-471D-8309-A8A01907E7D8}|Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj|solutionrelative:produto.infrastructure.ioc\\produto.infrastructure.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0FB5029-8868-4679-85B1-4DC4BB0CF97F}|Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.infrastructure.data\\produto.infrastructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F0FB5029-8868-4679-85B1-4DC4BB0CF97F}|Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj|solutionrelative:produto.infrastructure.data\\produto.infrastructure.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\validations\\produtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\validations\\produtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|c:\\users\\flavio martins jr\\downloads\\.net-examples\\example-cache-inmemory\\produto\\produto.api\\produto.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{45A9C314-A1A0-40D4-9E7F-FCAA3BAB753E}|Produto.API\\Produto.API.csproj|solutionrelative:produto.api\\produto.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContextInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Contexts\\ApplicationDbContextInitializer.cs",
+              "RelativeDocumentMoniker": "Produto.Infrastructure.Data\\Contexts\\ApplicationDbContextInitializer.cs",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Contexts\\ApplicationDbContextInitializer.cs",
+              "RelativeToolTip": "Produto.Infrastructure.Data\\Contexts\\ApplicationDbContextInitializer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAcwBEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T19:56:49.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Program.cs",
+              "RelativeDocumentMoniker": "Produto.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Program.cs",
+              "RelativeToolTip": "Produto.API\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:49:40.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HostingExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Extensions\\HostingExtensions.cs",
+              "RelativeDocumentMoniker": "Produto.API\\Extensions\\HostingExtensions.cs",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Extensions\\HostingExtensions.cs",
+              "RelativeToolTip": "Produto.API\\Extensions\\HostingExtensions.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAWwCoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:49:37.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProdutoController.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Controllers\\ProdutoController.cs",
+              "RelativeDocumentMoniker": "Produto.API\\Controllers\\ProdutoController.cs",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Controllers\\ProdutoController.cs",
+              "RelativeToolTip": "Produto.API\\Controllers\\ProdutoController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:46:56.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Produto.API\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Produto.API\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:46:55.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdutoConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\EntitiesConfigs\\ProdutoConfiguration.cs",
+              "RelativeDocumentMoniker": "Produto.Infrastructure.Data\\EntitiesConfigs\\ProdutoConfiguration.cs",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\EntitiesConfigs\\ProdutoConfiguration.cs",
+              "RelativeToolTip": "Produto.Infrastructure.Data\\EntitiesConfigs\\ProdutoConfiguration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:45:30.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Produto.API\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Produto.API\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T18:44:24.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "Produto.API\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\appsettings.Development.json",
+              "RelativeToolTip": "Produto.API\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-13T18:31:53.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Produto.Infrastructure.IOC.csproj",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj",
+              "RelativeDocumentMoniker": "Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj",
+              "RelativeToolTip": "Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T18:16:20.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Produto.Infrastructure.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj",
+              "RelativeDocumentMoniker": "Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj",
+              "RelativeToolTip": "Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T18:16:12.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProdutoValidator.cs",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Validations\\ProdutoValidator.cs",
+              "RelativeDocumentMoniker": "Produto.API\\Validations\\ProdutoValidator.cs",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Validations\\ProdutoValidator.cs",
+              "RelativeToolTip": "Produto.API\\Validations\\ProdutoValidator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-13T18:14:10.572Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Produto.API.csproj",
+              "DocumentMoniker": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Produto.API.csproj",
+              "RelativeDocumentMoniker": "Produto.API\\Produto.API.csproj",
+              "ToolTip": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.API\\Produto.API.csproj",
+              "RelativeToolTip": "Produto.API\\Produto.API.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-13T18:14:07.318Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

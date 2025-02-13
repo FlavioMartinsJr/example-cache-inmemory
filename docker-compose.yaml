@@ -1,0 +1,59 @@
+version: "3.9"
+
+services:
+    postgresql:
+        image: postgres:latest
+        container_name: DB_POSTGRESQL
+        environment:
+            POSTGRES_PASSWORD: 'Pr@duto123'
+            POSTGRES_USER: sa
+            POSTGRES_DB: Produtos
+        ports:
+            - 5432:5432
+        volumes:
+            - db_postgres_data:/var/lib/postgresql/data
+            # - ./logs/prod/postgres:/var/log/postgresql 
+            # - ./data/prod:/var/lib/postgresql/data     # se quiser volume local
+        networks:
+            - postgres_network
+        healthcheck:
+            test: ["CMD-SHELL", "pg_isready -U sa -d Produtos"]
+            interval: 10s
+            timeout: 5s
+            retries: 5
+        restart: unless-stopped
+
+
+    api_produto:
+        build:
+            context: .
+            dockerfile: dockerfile
+            args:
+                API_VERSION: latest
+        container_name: API_PRODUTO
+        restart: always
+        depends_on:
+            - postgresql
+        volumes:
+            - ./Produto:/Produto
+        networks:
+            - postgres_network
+        environment:
+            - DOTNET_SYSTEM_NET_HTTP_USESOCKETSHTTPHANDLER=0
+            - ASPNETCORE_URLS=http://+3000;https://+3001
+            - ASPNETCORE_ENVIRONMENT=docker             # Production
+            - ASPNETCORE_Kestrel__Certificates__Default__Path=certificates/certificado.crt
+            - ASPNETCORE_Kestrel__Certificates__Default__KeyPath=certificates/certificado.key
+            - ConnectionStrings__DefaultConnection=Username=sa;Password=Pr@duto123;Host=postgresql;Port=5432;Database=Produtos;
+        ports: 
+            - "3000:80"
+            - "3001:443"
+
+
+volumes:
+    db_postgres_data: {}
+
+networks: 
+    postgres_network:
+        driver: bridge
+ 

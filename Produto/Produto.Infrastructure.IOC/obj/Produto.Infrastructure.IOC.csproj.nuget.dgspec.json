@@ -1,0 +1,356 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj",
+        "projectName": "Produto.Application",
+        "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj",
+        "packagesPath": "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flavio Martins Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\Produto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\Produto.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\Produto.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\Produto.Domain.csproj",
+        "projectName": "Produto.Domain",
+        "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\Produto.Domain.csproj",
+        "packagesPath": "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flavio Martins Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj",
+        "projectName": "Produto.Infrastructure.Data",
+        "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flavio Martins Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj": {
+                "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.NpgSql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "AspNetCore.HealthChecks.UI.InMemory.Storage": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Bogus": {
+              "target": "Package",
+              "version": "[35.6.1, )"
+            },
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.11, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks": {
+              "target": "Package",
+              "version": "[9.0.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj",
+        "projectName": "Produto.Infrastructure.IOC",
+        "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.IOC\\Produto.Infrastructure.IOC.csproj",
+        "packagesPath": "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Flavio Martins Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj": {
+                "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj"
+              },
+              "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\Produto.Domain.csproj": {
+                "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Domain\\Produto.Domain.csproj"
+              },
+              "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Infrastructure.Data\\Produto.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore.Swagger": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerGen": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            },
+            "Swashbuckle.AspNetCore.SwaggerUI": {
+              "target": "Package",
+              "version": "[7.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

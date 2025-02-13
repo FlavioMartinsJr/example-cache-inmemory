@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "LtcS3Psxx06ZfLtFumRPGMTvhmBhPdaN28iMoyXgA4iHsRJxkGa0EgMj3FrAovRtoOYbJNAOoLd6bAO2j+q9ew==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Flavio Martins Jr\\Downloads\\.NET-EXAMPLES\\example-cache-inmemory\\Produto\\Produto.Application\\Produto.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.2\\microsoft.extensions.caching.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.2\\microsoft.extensions.caching.memory.9.0.2.nupkg.sha512",
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.2\\microsoft.extensions.dependencyinjection.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.2\\microsoft.extensions.logging.abstractions.9.0.2.nupkg.sha512",
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\microsoft.extensions.options\\9.0.2\\microsoft.extensions.options.9.0.2.nupkg.sha512",
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.2\\microsoft.extensions.primitives.9.0.2.nupkg.sha512",
+    "C:\\Users\\Flavio Martins Jr\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.2\\system.diagnostics.diagnosticsource.9.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
