@@ -4,7 +4,10 @@
 
 Este projeto serve como modelo para implementar memoria cache basica de maneira generica. Ele foca em ser direto, objeto e simples ao mesmo tempo que é muito eficiente 
 
-Importante, assim que rodar o projeto ele vai popular o banco de dados com 1.000.000 registros aleatorios usando a lib Bogus
+Importante, assim que rodar o projeto ele vai popular o banco de dados com 1.000.000 registros aleatorios usando a lib Bogus, caso não queira apenas comente a linha 18 na Produto/Produto.Infrastructure.Data/Contexts/ApplicationDbContextInitializer.cs
+
+
+# se não sabe o que esta fazendo tente entender o codigo antes de alterar (afim de te ajudar no seu proprio processo de apredizagem)
 
 ## Principais características
 
