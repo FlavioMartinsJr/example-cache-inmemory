@@ -48,7 +48,7 @@ Este projeto serve como modelo para implementar memoria cache basica de maneira 
      ```
 ### Uso
 
-Access the API via:
+API via:
 
 - Docker: `https://localhost:3001/swagger/index.html`
  
