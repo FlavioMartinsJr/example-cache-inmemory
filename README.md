@@ -17,7 +17,7 @@ se não sabe o que esta fazendo tente entender o codigo antes de alterar (afim d
 - ASP.NET Core 8.0 com Entity Framework Core
 - Suporte ao Docker com integração ao Postgresql
 - Token JWT e autenticação por identidade
-- Health Check and Logging
+- Health Check
 - Middleware para tratamento e validação de exceções
 - Capturações de logs
 - Https com certificados autoassinados
